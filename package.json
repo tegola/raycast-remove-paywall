@@ -20,6 +20,7 @@
   "preferences": [
     {
       "name": "service",
+      "title": "Service",
       "description": "The service to use to remove the paywall.",
       "type": "dropdown",
       "required": true,
