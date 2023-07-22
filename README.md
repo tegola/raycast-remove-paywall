@@ -1,6 +1,12 @@
 # Remove Paywall
 
-Remove the paywall from the selected URL. Can either use [12ft](https://12ft.io), [RemovePaywall](https://www.removepaywall.com) or [Archive](https://archive.is) depending on user preference.
+Remove the paywall from the selected URL.
+
+## Available services
+
+- [12ft](https://12ft.io)
+- [Archive](https://archive.is)
+- [RemovePaywall](https://www.removepaywall.com)
 
 ## Author
 
@@ -9,9 +15,3 @@ Remove the paywall from the selected URL. Can either use [12ft](https://12ft.io)
 - [GitHub](https://github.com/tegola)
 - [Twitter](https://twitter.com/tegola)
 - [Website](https://www.qreate.it)
-
-## Credits
-
-- [12ft](https://12ft.io)
-- [RemovePaywall](https://www.removepaywall.com)
-- [Archive](https://archive.is)
