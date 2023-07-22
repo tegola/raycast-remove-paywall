@@ -1,9 +1,5 @@
 import { LaunchProps, Toast, getPreferenceValues, getSelectedText, open, showToast } from "@raycast/api";
 
-interface Preferences {
-  service: string;
-}
-
 function isUrl(text: string): boolean {
   return /^https?:\/\//.test(text);
 }
