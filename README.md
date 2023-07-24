@@ -5,7 +5,7 @@ Remove the paywall from the specified URL. It can be passed as an argument, take
 ## List of commands
 
 - `Remove Paywall` - Remove the paywall from the specified URL.
-- `Remove Paywall Using...` - Remove the paywall from the the URL using a specific service; useful if you want to use a service that is not the default one.
+- `Remove Paywall Using` - Remove the paywall from the the URL using a specific service; useful if you want to use a service that is not the default one.
 
 ## Available services
 
