@@ -24,7 +24,5 @@ export async function getExistingText(fallbackText = ""): Promise<string> {
     // Ignore errors
   }
 
-  console.log("getExistingText", { selectedText, fallbackText, clipboardText });
-
   return [selectedText, fallbackText, clipboardText].find((v) => !!v) ?? "";
 }
