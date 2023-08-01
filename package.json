@@ -30,7 +30,6 @@
     {
       "name": "remove-paywall-using",
       "title": "Remove Paywall Using...",
-      "subtitle": "Specify a service to remove the paywall.",
       "description": "Remove the paywall with the specified URL using an alternative service.",
       "mode": "view"
     }
